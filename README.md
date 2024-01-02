@@ -59,6 +59,22 @@ Many countries around the world celebrate their New Year in spring, marking the 
 This is not an exhaustive list, and some countries may have variations in their spring New Year celebrations.
 These are just a few examples, and many other countries and regions have their own unique spring New Year traditions. Exploring these diverse celebrations can offer a fascinating glimpse into different cultures and their connections to the natural world.
 
+## New Year Dates in Russia, Israel, Ethiopia, and China (compared to China):
+
+| Country | Official New Year | Date | Significance | Similarities to China | Differences from China |
+|---|---|---|---|---|---|
+| **Russia** | Gregorian Calendar | January 1st | Widely celebrated with fireworks, family gatherings, and traditional dishes. | Follows same calendar as China for New Year. | Focuses on winter festivities and Christian traditions, unlike Lunar New Year in China. |
+| **Israel** | Hebrew Calendar | Rosh Hashanah (between September & October) | Marks the beginning of the High Holy Days period for Jews and focuses on introspection and repentance. | Different calendar system; not based on lunar cycles like China. | Religious focus separates it from the secular celebrations of Chinese New Year. |
+| **Ethiopia** | Ethiopian Calendar | September 11th | Commemorates the return of the Ark of the Covenant and the end of the rainy season. | Follows a fixed date, unlike the variable Lunar New Year in China. | Religious and historical significance differs from the festive and family-oriented Chinese New Year. |
+| **China** | Lunar Calendar | Variable date (between January & February) | Celebrated with family reunions, traditional food, and festivities honoring new beginnings and good luck. | Celebrates based on lunar cycles, similar to China. | Emphasizes family reunions and auspicious traditions, like China. |
+
+**Additional Notes:**
+
+* Some countries or regions within these countries may also have additional traditional New Year celebrations on different dates.
+* While Russia shares the January 1st New Year's Day with China, their cultural meanings and traditions differ significantly.
+* Israel and Ethiopia observe their New Years on fixed dates that hold religious and historical significance, unlike the lunar-based Chinese New Year.
+
+
 ## Countries Celebrating New Year on January 1st:
 
 | Region | Country | Additional Notes |

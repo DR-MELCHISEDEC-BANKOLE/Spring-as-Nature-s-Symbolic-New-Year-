@@ -1,4 +1,4 @@
-# Spring-as-Nature-s-Symbolic-New-Year?
+# Spring-as-Nature's-Symbolic-New-Year?
 
 As Nigerians, we usher in the new year with gusto on January 1st, following the Gregorian calendar like much of the world. But have you ever stopped to wonder if this date truly aligns with the rhythm of our land and our rich cultural tapestry? 
 What if I told you that **spring, not January, might be a more fitting time to celebrate a new beginning in Nigeria?**

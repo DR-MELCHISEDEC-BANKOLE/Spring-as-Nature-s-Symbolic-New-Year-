@@ -24,7 +24,7 @@ Imagine the possibilities:
 
 * **Schools reopening in spring, coinciding with the natural renewal and fresh beginnings of the season.**
 
-* **A national New Year celebration the Nigerian diversity and the collective spirit of the nation.**
+* **A national New Year celebration of the Nigerian diversity and the collective spirit of the nation.**
 
 * **Entrepreneurs launching new ventures or farmers starting their planting season with the symbolic boost of a new year.**
 
